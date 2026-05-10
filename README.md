@@ -1,7 +1,6 @@
 # pico-w-teams-webhook
 
 ## 概要
-
 Raspberry Pi Pico W から Microsoft Teams にWebhookでメッセージを送信するサンプルの作成
 
 ## 使用技術
